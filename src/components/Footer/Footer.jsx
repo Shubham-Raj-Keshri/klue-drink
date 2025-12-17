@@ -25,7 +25,7 @@ function Footer() {
 
     if (location.pathname !== "/") {
       navigate("/");
-      setTimeout(scroll, 500); // ⬅️ safer delay
+      setTimeout(scroll, 500);
     } else {
       scroll();
     }
@@ -120,11 +120,21 @@ function Footer() {
             <FaInstagram className="text-white text-lg" />
           </a>
 
-          <a className="p-3 rounded-full bg-white/10 transition hover:bg-cyan-500 hover:scale-110">
+          <a
+            href="https://facebook.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-3 rounded-full bg-white/10 transition hover:bg-cyan-500 hover:scale-110"
+          >
             <FaFacebookF className="text-white text-lg" />
           </a>
 
-          <a className="p-3 rounded-full bg-white/10 transition hover:bg-cyan-500 hover:scale-110">
+          <a
+            href="https://twitter.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-3 rounded-full bg-white/10 transition hover:bg-cyan-500 hover:scale-110"
+          >
             <FaTwitter className="text-white text-lg" />
           </a>
 
