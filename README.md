@@ -1,3 +1,40 @@
+# Klue Drinks – Official Website
+
+A modern, responsive website for **Klue Drinks**, a premium packaged drinking water brand, built using **React** and **Tailwind CSS**.
+
+The website highlights the brand story, products, awards & recognition, and provides a smooth shopping experience.
+
+---
+
+## 🌐 Live Demo
+👉 https://shubham-raj-keshri.github.io/klue-drink
+
+---
+
+## 🚀 Features
+
+- Modern UI with dark premium theme
+- Fully responsive design (mobile, tablet, desktop)
+- Clean section-based layout
+- Awards & Recognition slider with fullscreen view
+- Reusable React components
+- Smooth navigation with React Router
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React.js
+- **Styling:** Tailwind CSS
+- **Routing:** React Router
+- **State Management:** React Hooks
+- **Build Tool:** Create React App
+- **Version Control:** Git & GitHub
+
+---
+
+## 📂 Project Structure
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
