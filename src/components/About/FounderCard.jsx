@@ -1,3 +1,4 @@
+
 function FounderCard() {
   return (
     <div className="relative rounded-3xl">
@@ -13,7 +14,7 @@ function FounderCard() {
         "
       >
         <img
-          src="/images/founder-profile.jpg"
+          src={`${process.env.PUBLIC_URL}/images/founder-profile.jpg`}
           alt="Rajat Keshri"
           className="w-28 h-28 mx-auto rounded-full object-cover border-4 border-cyan-500 mb-4"
         />
