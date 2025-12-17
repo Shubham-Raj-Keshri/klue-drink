@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/klue-drink/static/css/main.7b81c73f.css",
-    "main.js": "/klue-drink/static/js/main.ea6ba93f.js",
+    "main.js": "/klue-drink/static/js/main.7df61af9.js",
     "static/js/453.24ff46c5.chunk.js": "/klue-drink/static/js/453.24ff46c5.chunk.js",
     "static/media/mineral-1-litre.jpg": "/klue-drink/static/media/mineral-1-litre.6ec1dc1768f39845e4f4.jpg",
     "static/media/certificate-water2.jpg": "/klue-drink/static/media/certificate-water2.eec75f582900ea609648.jpg",
@@ -14,11 +14,11 @@
     "static/media/mineral-2-litre.jpg": "/klue-drink/static/media/mineral-2-litre.be8504f7e25a3089d5fb.jpg",
     "index.html": "/klue-drink/index.html",
     "main.7b81c73f.css.map": "/klue-drink/static/css/main.7b81c73f.css.map",
-    "main.ea6ba93f.js.map": "/klue-drink/static/js/main.ea6ba93f.js.map",
+    "main.7df61af9.js.map": "/klue-drink/static/js/main.7df61af9.js.map",
     "453.24ff46c5.chunk.js.map": "/klue-drink/static/js/453.24ff46c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7b81c73f.css",
-    "static/js/main.ea6ba93f.js"
+    "static/js/main.7df61af9.js"
   ]
 }
