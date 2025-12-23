@@ -1,18 +1,19 @@
 import mineralWater from "../assets/images/mineral-water.jpg";
 import pineappleWater from "../assets/images/pineapple-water.jpg";
 import mangoWater from "../assets/images/mango-water.jpg";
-import mineral1L from "../assets/images/mineral-1-litre.jpg";
+import watermelon from "../assets/images/watermelon.jpeg";
 import mineral2L from "../assets/images/mineral-2-litre.jpg";
 import mineralCombo from "../assets/images/mineral-combo.jpg";
 import strawberryWater from "../assets/images/strawberry-water.jpg";
 
 const products = [
-  {
+  
+   {
     id: 1,
-    name: "Mineral Water",
+    name: "Strawberry Water",
     price: "₹25",
-    image: mineralWater,
-    category: "mineral",
+    image: strawberryWater,
+    category: "fruit",
   },
   {
     id: 2,
@@ -28,12 +29,12 @@ const products = [
     image: mangoWater,
     category: "mango",
   },
-  {
+   {
     id: 4,
-    name: "Mineral 1 Litre",
-    price: "₹30",
-    image: mineral1L,
-    category: "mineral",
+    name: "Watermelon flavoured water",
+    price: "₹25",
+    image: watermelon,
+    category: "watermelon",
   },
   {
     id: 5,
@@ -51,10 +52,10 @@ const products = [
   },
   {
     id: 7,
-    name: "Strawberry Water",
-    price: "₹30",
-    image: strawberryWater,
-    category: "fruit",
+    name: "Mineral Water",
+    price: "₹25",
+    image: mineralWater,
+    category: "mineral",
   },
 ];
 
