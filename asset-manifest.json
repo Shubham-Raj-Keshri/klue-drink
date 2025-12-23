@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/klue-drink/static/css/main.7b81c73f.css",
-    "main.js": "/klue-drink/static/js/main.7df61af9.js",
+    "main.css": "/klue-drink/static/css/main.ddab1a56.css",
+    "main.js": "/klue-drink/static/js/main.b775eb66.js",
     "static/js/453.24ff46c5.chunk.js": "/klue-drink/static/js/453.24ff46c5.chunk.js",
-    "static/media/mineral-1-litre.jpg": "/klue-drink/static/media/mineral-1-litre.6ec1dc1768f39845e4f4.jpg",
+    "static/media/pineapple-water.jpg": "/klue-drink/static/media/pineapple-water.9ce3814891efc7e43ca7.jpg",
+    "static/media/watermelon.jpeg": "/klue-drink/static/media/watermelon.77a01ab4c063e597dda9.jpeg",
+    "static/media/hero-water.png": "/klue-drink/static/media/hero-water.65ab41c07c2f8bb910c5.png",
+    "static/media/mango-water.jpg": "/klue-drink/static/media/mango-water.3b93239a217cd53b4091.jpg",
+    "static/media/strawberry-water.jpg": "/klue-drink/static/media/strawberry-water.8dfa6dfe2a9818d706bc.jpg",
     "static/media/certificate-water2.jpg": "/klue-drink/static/media/certificate-water2.eec75f582900ea609648.jpg",
     "static/media/mineral-combo.jpg": "/klue-drink/static/media/mineral-combo.eafeb918db2494e9ed54.jpg",
-    "static/media/strawberry-water.jpg": "/klue-drink/static/media/strawberry-water.63acce652a9fefa5a501.jpg",
     "static/media/certificate-water.jpg": "/klue-drink/static/media/certificate-water.432869899d668d3f4bc2.jpg",
     "static/media/mineral-water.jpg": "/klue-drink/static/media/mineral-water.bae38aff356d981be653.jpg",
-    "static/media/pineapple-water.jpg": "/klue-drink/static/media/pineapple-water.855f850ae1aa78f07bc7.jpg",
-    "static/media/mango-water.jpg": "/klue-drink/static/media/mango-water.5d7dd36b3d62fe26f260.jpg",
     "static/media/mineral-2-litre.jpg": "/klue-drink/static/media/mineral-2-litre.be8504f7e25a3089d5fb.jpg",
     "index.html": "/klue-drink/index.html",
-    "main.7b81c73f.css.map": "/klue-drink/static/css/main.7b81c73f.css.map",
-    "main.7df61af9.js.map": "/klue-drink/static/js/main.7df61af9.js.map",
+    "main.ddab1a56.css.map": "/klue-drink/static/css/main.ddab1a56.css.map",
+    "main.b775eb66.js.map": "/klue-drink/static/js/main.b775eb66.js.map",
     "453.24ff46c5.chunk.js.map": "/klue-drink/static/js/453.24ff46c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b81c73f.css",
-    "static/js/main.7df61af9.js"
+    "static/css/main.ddab1a56.css",
+    "static/js/main.b775eb66.js"
   ]
 }
